@@ -1,6 +1,3 @@
-# TestVergent
-
-
 import itertools
 
 class News:
